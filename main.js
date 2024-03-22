@@ -1,4 +1,4 @@
-// Wrap the code in an async function
+// run this in a browser console
 async function bid() {
     console.log("Starting to bid");
     // Select the element using its CSS selector
@@ -23,5 +23,5 @@ async function bid() {
     }
 }
 
-// Call the function
+
 bid();
